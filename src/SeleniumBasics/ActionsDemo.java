@@ -26,6 +26,11 @@ public class ActionsDemo {
 		
 		//a.moveToElement(driver.findElement(By.cssSelector("#fname"))).click().contextClick().build().perform();
 
+		
+		System.out.println("Test");
+		
+		System.out.println("Test1");
+		
 	}
 
 }
